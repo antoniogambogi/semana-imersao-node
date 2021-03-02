@@ -1,3 +1,9 @@
+Baixar e rodar o projeto e instalar todas as depedências
+## npm install
+
+Rodar o projeto usando o nodemon
+### nodemon app.js
+
 Sequência para criar o projeto
 - Criar o arquivo package.json
 ### npm init
