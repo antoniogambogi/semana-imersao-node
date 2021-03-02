@@ -20,3 +20,6 @@ Instalar o banco de dados MongoDB
 Instalar a dependência Moongose, traduz os dados do banco de dados para objetos JavaScript, para que possam
 ser utilizados pela aplicação
 ### npm install mongoose --save
+
+Permitir acesso a API
+### npm install cors --save
